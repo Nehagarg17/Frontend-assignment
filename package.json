@@ -2,7 +2,7 @@
   "name": "my-profile-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Nehagarg17/Frontend-assignment.git",
+  "homepage": "https://nehagarg17.github.io/Frontend-assignment",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
