@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Nehagarg17/Frontend-assignment.git/static/css/main.91979506.css",
-    "main.js": "/Nehagarg17/Frontend-assignment.git/static/js/main.94ee4a1e.js",
-    "static/js/787.8af22d7a.chunk.js": "/Nehagarg17/Frontend-assignment.git/static/js/787.8af22d7a.chunk.js",
-    "static/media/google_map.jpeg": "/Nehagarg17/Frontend-assignment.git/static/media/google_map.8f5b2ad6ae40adae8097.jpeg",
-    "static/media/logo.svg": "/Nehagarg17/Frontend-assignment.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Nehagarg17/Frontend-assignment.git/index.html",
-    "main.91979506.css.map": "/Nehagarg17/Frontend-assignment.git/static/css/main.91979506.css.map",
-    "main.94ee4a1e.js.map": "/Nehagarg17/Frontend-assignment.git/static/js/main.94ee4a1e.js.map",
-    "787.8af22d7a.chunk.js.map": "/Nehagarg17/Frontend-assignment.git/static/js/787.8af22d7a.chunk.js.map"
+    "main.css": "/Frontend-assignment/static/css/main.68d489ce.css",
+    "main.js": "/Frontend-assignment/static/js/main.2c9d4b54.js",
+    "static/js/787.8af22d7a.chunk.js": "/Frontend-assignment/static/js/787.8af22d7a.chunk.js",
+    "static/media/google_map.jpeg": "/Frontend-assignment/static/media/google_map.8f5b2ad6ae40adae8097.jpeg",
+    "static/media/logo.svg": "/Frontend-assignment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Frontend-assignment/index.html",
+    "main.68d489ce.css.map": "/Frontend-assignment/static/css/main.68d489ce.css.map",
+    "main.2c9d4b54.js.map": "/Frontend-assignment/static/js/main.2c9d4b54.js.map",
+    "787.8af22d7a.chunk.js.map": "/Frontend-assignment/static/js/787.8af22d7a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91979506.css",
-    "static/js/main.94ee4a1e.js"
+    "static/css/main.68d489ce.css",
+    "static/js/main.2c9d4b54.js"
   ]
 }
