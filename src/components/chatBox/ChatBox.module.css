@@ -1,0 +1,33 @@
+.header {
+    background-color: #0066FF;
+    width: 200px;
+    height: 40px;
+    border-bottom: 1px solid #fff;
+    border-radius: 10px 10px 0 0;    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+    padding: 0 10px;
+    cursor: pointer;
+}
+.online {
+    width: 6px;
+    height: 6px;
+    background-color: #00FF66;
+    border-radius: 50%;
+}
+
+.offline {
+    width: 6px;
+    height: 6px;
+    background-color: gray;
+    border-radius: 50%;
+}
+
+.chatBox {
+    position: fixed;
+    bottom: 0;
+    right: 10px;
+    background-color: #fff;
+}

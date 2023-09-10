@@ -1,0 +1,13 @@
+.headSection {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #DCDCDC;
+}
+.leftSection {
+    text-align: left;
+    font-weight: 500;
+}
+.rightSection {
+    position: relative;
+}

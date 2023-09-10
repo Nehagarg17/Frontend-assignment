@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+}
+
+.itemSection{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    padding: 10px 0;
+}
+.mapContainer {
+    width: 90%;
+    height: 50vh;
+    background-image: url('../../images/google_map.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 5%;
+}
+.coordinateContainer{
+    display: flex;
+    justify-content: flex-end;
+    width: 90%;
+}
